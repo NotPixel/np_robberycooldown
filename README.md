@@ -16,5 +16,5 @@ else
 end
 ```
 
-#Support
+# Support
 If you run into an issue whilst using this robbery cooldown handler, please create an issue.
